@@ -1,6 +1,6 @@
 <template>
   <div>
-    推荐页面a
+    推荐页面aaaa
   </div>
 </template>
 
